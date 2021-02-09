@@ -21,25 +21,27 @@ Project aims at predicting house prices (REsidential) in Ames, IOWA, USA based o
 </table>
 
 #### Correlation
-<img src="Images/correlation.png"  alt="1" width = 400px height = 250px >
+<img src="Images/correlation.png"  alt="1" width = 400px height = 250px>
 
 ### Data Pre-Processing
 ##### Missing Values
+<img src="Images/MissingVal.png"  alt="1" width = 360px height = 300px>
+ 
+##### Mice Imputations
+<img src="Images/"  alt="1" width = 360px height = 300px>
+
+ #### Pre-Processing
+
+ * hi
+ * hi
+ * hi
 <table>
   <tr>
     <td> <img src="Images/HistogramSalesPrice.png"  alt="1" width = 260px height = 210px ></td>
     <td><img src="Images/HistLogSalePrice.png" alt="2" width = 260px height = 210px></td>
    </tr>
  </table>
- 
- ##### Mice Imputations
- <img src="Images/"  alt="1" width = 360px height = 300px >
- 
- #### Pre-Processing
- * hi
- * hi
- * hi
- 
+
 ### Features Engineering
 <img src="Images/VarImpPlot_RF.png"  alt="1" width = 560px height = 300px>
 
