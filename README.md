@@ -21,7 +21,7 @@ Project aims at predicting house prices (REsidential) in Ames, IOWA, USA based o
 </table>
 
 #### Correlation
-<img src="Images/"  alt="1" width = 360px height = 300px >
+<img src="Images/correlation.png"  alt="1" width = 360px height = 300px >
 
 ### Data Pre-Processing
 ##### Missing Values
@@ -46,7 +46,7 @@ Project aims at predicting house prices (REsidential) in Ames, IOWA, USA based o
 ### Model Training & Evaluation
 ##### Summary Statistics
 
- <img src="Images/VarImpPlot_RF.png"  alt="1" width = 360px height = 500px>
+ <img src="Images/summarystats.png"  alt="1" width = 360px height = 500px>
  
  
 
