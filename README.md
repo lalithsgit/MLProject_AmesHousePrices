@@ -9,12 +9,12 @@ Project aims at predicting house prices (REsidential) in Ames, IOWA, USA based o
 
 <table>
   <tr>
-    <td> <img src="Images/BoxNeighbor.png"  alt="1" width = 300px height = 360px ></td>
-    <td><img src="Images/BoxNeighbor.png" alt="2" width = 300px height = 360px></td>
+    <td> <img src="Images/BoxNeighbor.png"  alt="1" width = 360px height = 300px ></td>
+    <td><img src="Images/BoxNeighbor.png" alt="2" width = 360px height = 300px></td>
    </tr> 
    <tr>
-      <td><img src="Images/BoxNeighbor.png" alt="3" width = 300px height = 360px></td>
-      <td><img src="Images/BoxNeighbor.png" align="right" alt="4" width = 300px height = 360px>
+      <td><img src="Images/BoxNeighbor.png" alt="3" width = 360px height = 300px></td>
+      <td><img src="Images/BoxNeighbor.png" align="right" alt="4" width = 360px height = 300px>
   </td>
   </tr>
 </table>
