@@ -52,4 +52,3 @@ Project aims at predicting house prices (REsidential) in Ames, IOWA, USA based o
 ##### Cross Validation
 <img src="Images/CrossVal.png"  alt="1" width = 360px height = 300px>
 
-
