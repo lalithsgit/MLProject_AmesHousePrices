@@ -36,9 +36,13 @@ Project aims at predicting house prices (REsidential) in Ames, IOWA, USA based o
  <img src="Images/"  alt="1" width = 360px height = 300px >
  
  #### Pre-Processing
- *. hi
- *. hi
- *. ji
+ * hi
+ * hi
+ * hi
+ 
+ ### Features Engineering
+  <img src="Images/VarImpPlot_RF.png"  alt="1" width = 560px height = 300px>
+
  
  
  
