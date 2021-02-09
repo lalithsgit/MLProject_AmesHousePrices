@@ -25,10 +25,10 @@ Project aims at predicting house prices (REsidential) in Ames, IOWA, USA based o
 
 ### Data Pre-Processing
 ##### Missing Values
-<img src="Images/MissingVal.png"  alt="1" width = 360px height = 300px>
+<img src="Images/MissingVal.png"  alt="1" width = 400px height = 300px>
  
 ##### Mice Imputations
-<img src="Images/"  alt="1" width = 360px height = 300px>
+<img src="Images/" alt="1" width = 360px height = 300px>
 
  #### Pre-Processing
 
