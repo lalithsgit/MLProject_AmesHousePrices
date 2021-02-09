@@ -27,8 +27,8 @@ Project aims at predicting house prices (REsidential) in Ames, IOWA, USA based o
 ##### Missing Values
 <table>
   <tr>
-    <td> <img src="Images/HistogramSalesPrice.png"  alt="1" width = 360px height = 300px ></td>
-    <td><img src="Images/HistLogSalePrice.png" alt="2" width = 360px height = 300px></td>
+    <td> <img src="Images/HistogramSalesPrice.png"  alt="1" width = 260px height = 210px ></td>
+    <td><img src="Images/HistLogSalePrice.png" alt="2" width = 260px height = 210px></td>
    </tr>
  </table>
  
