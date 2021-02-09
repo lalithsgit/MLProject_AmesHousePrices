@@ -8,7 +8,6 @@ Project aims at predicting house prices (REsidential) in Ames, IOWA, USA based o
 ![Univariate Ananlysis](Images/histograms.png)
 
 
-|![Qualitative vs Sales Price](Images/BoxNeighbor.png)  |![Qualitative vs Sales Price](Images/BoxNeighbor.png) |
-
-|![Qualitative vs Sales Price](Images/BoxNeighbor.png)  |![Qualitative vs Sales Price](Images/BoxNeighbor.png) |
+!|[Qualitative vs Sales Price](Images/BoxNeighbor.png)  |[Qualitative vs Sales Price](Images/BoxNeighbor.png) |
+!|[Qualitative vs Sales Price](Images/BoxNeighbor.png)  |[Qualitative vs Sales Price](Images/BoxNeighbor.png) |
 
