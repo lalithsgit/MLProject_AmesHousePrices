@@ -7,14 +7,22 @@ Project aims at predicting house prices (REsidential) in Ames, IOWA, USA based o
 ### Data Visualizations
 ![Univariate Ananlysis](Images/histograms.png)
 
+#### Qualitative vs Sale Price
 <table>
   <tr>
     <td> <img src="Images/BoxNeighbor.png"  alt="1" width = 360px height = 300px ></td>
-    <td><img src="Images/BoxNeighbor.png" alt="2" width = 360px height = 300px></td>
+    <td><img src="Images/BoxExtQual.png" alt="2" width = 360px height = 300px></td>
    </tr> 
    <tr>
-      <td><img src="Images/BoxNeighbor.png" alt="3" width = 360px height = 300px></td>
-      <td><img src="Images/BoxNeighbor.png" align="right" alt="4" width = 360px height = 300px>
+      <td><img src="Images/boxHouseStyle.png" alt="3" width = 360px height = 300px></td>
+      <td><img src="Images/boxOverallQual.png " align="right" alt="4" width = 360px height = 300px>
   </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td> <img src="Images/HistogramSalesPrice.png"  alt="1" width = 360px height = 300px ></td>
+    <td><img src="Images/HistLogSalePrice.png" alt="2" width = 360px height = 300px></td>
+   </tr>
+ </table>
